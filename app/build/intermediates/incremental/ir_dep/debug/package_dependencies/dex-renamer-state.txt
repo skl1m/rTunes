@@ -1,0 +1,4 @@
+#Sat Sep 15 19:53:49 PDT 2018
+base.0=/Users/slim/Documents2/CECS 327/RTunes/app/build/intermediates/transforms/dexMerger/debug/10
+path.0=classes.dex
+renamed.0=classes.dex

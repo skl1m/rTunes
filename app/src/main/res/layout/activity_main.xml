@@ -1,0 +1,215 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/LinearLayout2"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="bottom"
+    android:gravity="center_horizontal"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <TextView
+            android:id="@+id/tvwSeparator0"
+            android:layout_width="5dp"
+            android:layout_height="20dp" />
+
+        <EditText
+            android:id="@+id/edtSearch"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.38"
+            android:ems="10"
+            android:hint="Song, Artist, Album, Genre"
+            android:inputType="textPersonName" >
+
+            <requestFocus />
+        </EditText>
+
+        <Button
+            android:id="@+id/btnSearch"
+            style="?android:attr/buttonStyleSmall"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:background="@drawable/search" />
+
+        <TextView
+            android:id="@+id/tvwSeparator1"
+            android:layout_width="15dp"
+            android:layout_height="20dp" />
+
+        <Button
+            android:id="@+id/btnProfile"
+            style="?android:attr/buttonStyleSmall"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:background="@drawable/profile" />
+
+        <TextView
+            android:id="@+id/TvwSeparator2"
+            android:layout_width="10dp"
+            android:layout_height="20dp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="369dp"
+        android:layout_weight="2.40"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/tvwSeparator3"
+            android:layout_width="10dp"
+            android:layout_height="10dp" />
+
+        <ListView
+            android:id="@+id/lvwSearch"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" >
+        </ListView>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#000000" >
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal" >
+
+            <LinearLayout
+                android:id="@+id/layoutLoading"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:visibility="invisible" >
+
+                <ImageView
+                    android:id="@+id/imgLoading"
+                    android:layout_width="wrap_content"
+                    android:layout_height="40dp"
+                    android:layout_gravity="center_horizontal"
+                    android:contentDescription="@string/app_name"
+                    android:src="@drawable/cargando" />
+
+                <ProgressBar
+                    android:id="@+id/prgBar"
+                    style="?android:attr/progressBarStyleHorizontal"
+                    android:layout_width="163dp"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:indeterminate="true"
+                    android:visibility="visible" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/layoutControls"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:visibility="visible" >
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" >
+
+                    <ImageButton
+                        android:id="@+id/btnControl"
+                        android:layout_width="40dp"
+                        android:layout_height="40dp"
+                        android:background="@null"
+                        android:contentDescription="@string/app_name"
+                        android:onClick="startPlaying"
+                        android:scaleType="fitXY"
+                        android:src="@drawable/play_state"
+                        android:visibility="visible" />
+
+                    <TextView
+                        android:id="@+id/textView1"
+                        android:layout_width="20dp"
+                        android:layout_height="20dp"
+                        android:text="TextView" />
+
+                    <LinearLayout
+                        android:layout_width="fill_parent"
+                        android:layout_height="match_parent"
+                        android:layout_weight="2.4"
+                        android:orientation="vertical" >
+
+                        <TextView
+                            android:id="@+id/tvwCurrentSongName"
+                            android:layout_width="fill_parent"
+                            android:layout_height="wrap_content"
+                            android:text="Select a song from the list"
+                            android:textColor="#FFFFFF"
+                            android:textSize="15sp" />
+
+                        <TextView
+                            android:id="@+id/tvwCurrentAuthor"
+                            android:layout_width="fill_parent"
+                            android:layout_height="wrap_content"
+                            android:text="..."
+                            android:textColor="#FFFFFF" />
+
+                    </LinearLayout>
+
+                    <ImageButton
+                        android:id="@+id/btnOff"
+                        android:layout_width="40dp"
+                        android:layout_height="40dp"
+                        android:background="@null"
+                        android:contentDescription="@string/app_name"
+                        android:onClick="stop"
+                        android:scaleType="fitXY"
+                        android:src="@drawable/power_state" />
+
+                </LinearLayout>
+
+                <SeekBar
+                    android:id="@+id/skbVolume"
+                    android:layout_width="197dp"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:background="#55000000"
+                    android:minHeight="13dp" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/layoutError"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="false"
+                android:layout_alignParentTop="false"
+                android:gravity="left"
+                android:orientation="horizontal"
+                android:visibility="invisible" >
+
+                <ImageButton
+                    android:id="@+id/btnError"
+                    android:layout_width="40dp"
+                    android:layout_height="40dp"
+                    android:layout_gravity="center_horizontal|start"
+                    android:background="@null"
+                    android:contentDescription="@string/app_name"
+                    android:onClick="errorAction"
+                    android:scaleType="fitXY"
+                    android:src="@drawable/error_state"
+                    android:visibility="visible" />
+
+                <TextView
+                    android:id="@+id/txtError"
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:layout_gravity="center_horizontal"
+                    android:gravity="center_horizontal"
+                    android:textColor="#FFFFFF" />
+            </LinearLayout>
+        </RelativeLayout>
+
+    </LinearLayout>
+
+</LinearLayout>

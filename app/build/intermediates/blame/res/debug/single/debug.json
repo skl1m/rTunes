@@ -1,0 +1,118 @@
+[
+    {
+        "merged": "/Users/slim/Documents2/CECS 327/RTunes/app/build/intermediates/res/merged/debug/drawable_play_pressed.png.flat",
+        "source": "/Users/slim/Documents2/CECS 327/RTunes/app/src/main/res/drawable/play_pressed.png"
+    },
+    {
+        "merged": "/Users/slim/Documents2/CECS 327/RTunes/app/build/intermediates/res/merged/debug/layout_activity_playlist.xml.flat",
+        "source": "/Users/slim/Documents2/CECS 327/RTunes/app/src/main/res/layout/activity_playlist.xml"
+    },
+    {
+        "merged": "/Users/slim/Documents2/CECS 327/RTunes/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_launcher.png.flat",
+        "source": "/Users/slim/Documents2/CECS 327/RTunes/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/slim/Documents2/CECS 327/RTunes/app/build/intermediates/res/merged/debug/drawable_add.png.flat",
+        "source": "/Users/slim/Documents2/CECS 327/RTunes/app/src/main/res/drawable/add.png"
+    },
+    {
+        "merged": "/Users/slim/Documents2/CECS 327/RTunes/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/slim/Documents2/CECS 327/RTunes/app/src/main/res/drawable-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/slim/Documents2/CECS 327/RTunes/app/build/intermediates/res/merged/debug/drawable_power_pressed.png.flat",
+        "source": "/Users/slim/Documents2/CECS 327/RTunes/app/src/main/res/drawable/power_pressed.png"
+    },
+    {
+        "merged": "/Users/slim/Documents2/CECS 327/RTunes/app/build/intermediates/res/merged/debug/drawable_power.png.flat",
+        "source": "/Users/slim/Documents2/CECS 327/RTunes/app/src/main/res/drawable/power.png"
+    },
+    {
+        "merged": "/Users/slim/Documents2/CECS 327/RTunes/app/build/intermediates/res/merged/debug/drawable_pause_pressed.png.flat",
+        "source": "/Users/slim/Documents2/CECS 327/RTunes/app/src/main/res/drawable/pause_pressed.png"
+    },
+    {
+        "merged": "/Users/slim/Documents2/CECS 327/RTunes/app/build/intermediates/res/merged/debug/menu_main.xml.flat",
+        "source": "/Users/slim/Documents2/CECS 327/RTunes/app/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/Users/slim/Documents2/CECS 327/RTunes/app/build/intermediates/res/merged/debug/drawable_play.png.flat",
+        "source": "/Users/slim/Documents2/CECS 327/RTunes/app/src/main/res/drawable/play.png"
+    },
+    {
+        "merged": "/Users/slim/Documents2/CECS 327/RTunes/app/build/intermediates/res/merged/debug/drawable_ic_launcher.png.flat",
+        "source": "/Users/slim/Documents2/CECS 327/RTunes/app/src/main/res/drawable/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/slim/Documents2/CECS 327/RTunes/app/build/intermediates/res/merged/debug/drawable_cargando.png.flat",
+        "source": "/Users/slim/Documents2/CECS 327/RTunes/app/src/main/res/drawable/cargando.png"
+    },
+    {
+        "merged": "/Users/slim/Documents2/CECS 327/RTunes/app/build/intermediates/res/merged/debug/drawable_error.png.flat",
+        "source": "/Users/slim/Documents2/CECS 327/RTunes/app/src/main/res/drawable/error.png"
+    },
+    {
+        "merged": "/Users/slim/Documents2/CECS 327/RTunes/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/slim/Documents2/CECS 327/RTunes/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/slim/Documents2/CECS 327/RTunes/app/build/intermediates/res/merged/debug/drawable_search.png.flat",
+        "source": "/Users/slim/Documents2/CECS 327/RTunes/app/src/main/res/drawable/search.png"
+    },
+    {
+        "merged": "/Users/slim/Documents2/CECS 327/RTunes/app/build/intermediates/res/merged/debug/drawable_profile.png.flat",
+        "source": "/Users/slim/Documents2/CECS 327/RTunes/app/src/main/res/drawable/profile.png"
+    },
+    {
+        "merged": "/Users/slim/Documents2/CECS 327/RTunes/app/build/intermediates/res/merged/debug/drawable_error_pressed.png.flat",
+        "source": "/Users/slim/Documents2/CECS 327/RTunes/app/src/main/res/drawable/error_pressed.png"
+    },
+    {
+        "merged": "/Users/slim/Documents2/CECS 327/RTunes/app/build/intermediates/res/merged/debug/layout_itemlistview_playlist.xml.flat",
+        "source": "/Users/slim/Documents2/CECS 327/RTunes/app/src/main/res/layout/itemlistview_playlist.xml"
+    },
+    {
+        "merged": "/Users/slim/Documents2/CECS 327/RTunes/app/build/intermediates/res/merged/debug/drawable_pause_state.xml.flat",
+        "source": "/Users/slim/Documents2/CECS 327/RTunes/app/src/main/res/drawable/pause_state.xml"
+    },
+    {
+        "merged": "/Users/slim/Documents2/CECS 327/RTunes/app/build/intermediates/res/merged/debug/drawable_error_state.xml.flat",
+        "source": "/Users/slim/Documents2/CECS 327/RTunes/app/src/main/res/drawable/error_state.xml"
+    },
+    {
+        "merged": "/Users/slim/Documents2/CECS 327/RTunes/app/build/intermediates/res/merged/debug/drawable_logo.png.flat",
+        "source": "/Users/slim/Documents2/CECS 327/RTunes/app/src/main/res/drawable/logo.png"
+    },
+    {
+        "merged": "/Users/slim/Documents2/CECS 327/RTunes/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/Users/slim/Documents2/CECS 327/RTunes/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/slim/Documents2/CECS 327/RTunes/app/build/intermediates/res/merged/debug/drawable_play_state.xml.flat",
+        "source": "/Users/slim/Documents2/CECS 327/RTunes/app/src/main/res/drawable/play_state.xml"
+    },
+    {
+        "merged": "/Users/slim/Documents2/CECS 327/RTunes/app/build/intermediates/res/merged/debug/layout_itemlistview_song.xml.flat",
+        "source": "/Users/slim/Documents2/CECS 327/RTunes/app/src/main/res/layout/itemlistview_song.xml"
+    },
+    {
+        "merged": "/Users/slim/Documents2/CECS 327/RTunes/app/build/intermediates/res/merged/debug/layout_activity_login.xml.flat",
+        "source": "/Users/slim/Documents2/CECS 327/RTunes/app/src/main/res/layout/activity_login.xml"
+    },
+    {
+        "merged": "/Users/slim/Documents2/CECS 327/RTunes/app/build/intermediates/res/merged/debug/layout_activity_profile.xml.flat",
+        "source": "/Users/slim/Documents2/CECS 327/RTunes/app/src/main/res/layout/activity_profile.xml"
+    },
+    {
+        "merged": "/Users/slim/Documents2/CECS 327/RTunes/app/build/intermediates/res/merged/debug/drawable_remove.png.flat",
+        "source": "/Users/slim/Documents2/CECS 327/RTunes/app/src/main/res/drawable/remove.png"
+    },
+    {
+        "merged": "/Users/slim/Documents2/CECS 327/RTunes/app/build/intermediates/res/merged/debug/drawable_power_state.xml.flat",
+        "source": "/Users/slim/Documents2/CECS 327/RTunes/app/src/main/res/drawable/power_state.xml"
+    },
+    {
+        "merged": "/Users/slim/Documents2/CECS 327/RTunes/app/build/intermediates/res/merged/debug/drawable_pause.png.flat",
+        "source": "/Users/slim/Documents2/CECS 327/RTunes/app/src/main/res/drawable/pause.png"
+    }
+]

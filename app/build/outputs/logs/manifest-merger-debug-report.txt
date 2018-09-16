@@ -1,0 +1,108 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/slim/Documents2/CECS 327/RTunes/app/src/main/AndroidManifest.xml:2:1-40:12
+INJECTED from /Users/slim/Documents2/CECS 327/RTunes/app/src/main/AndroidManifest.xml:2:1-40:12
+INJECTED from /Users/slim/Documents2/CECS 327/RTunes/app/src/main/AndroidManifest.xml:2:1-40:12
+INJECTED from /Users/slim/Documents2/CECS 327/RTunes/app/src/main/AndroidManifest.xml:2:1-40:12
+MERGED from [com.android.support:support-v4:21.0.3] /Users/slim/.gradle/caches/transforms-1/files-1.1/support-v4-21.0.3.aar/2f844fd303d7d3f0e2570828fa4f1ac7/AndroidManifest.xml:14:4-17:12
+INJECTED from /Users/slim/Documents2/CECS 327/RTunes/app/src/main/AndroidManifest.xml:2:1-40:12
+INJECTED from /Users/slim/Documents2/CECS 327/RTunes/app/src/main/AndroidManifest.xml:2:1-40:12
+INJECTED from /Users/slim/Documents2/CECS 327/RTunes/app/src/main/AndroidManifest.xml:2:1-40:12
+	package
+		ADDED from /Users/slim/Documents2/CECS 327/RTunes/app/src/main/AndroidManifest.xml:3:5-25
+		INJECTED from /Users/slim/Documents2/CECS 327/RTunes/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/slim/Documents2/CECS 327/RTunes/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/slim/Documents2/CECS 327/RTunes/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /Users/slim/Documents2/CECS 327/RTunes/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/slim/Documents2/CECS 327/RTunes/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/slim/Documents2/CECS 327/RTunes/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /Users/slim/Documents2/CECS 327/RTunes/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/slim/Documents2/CECS 327/RTunes/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/slim/Documents2/CECS 327/RTunes/app/src/main/AndroidManifest.xml
+uses-sdk
+ADDED from /Users/slim/Documents2/CECS 327/RTunes/app/src/main/AndroidManifest.xml:7:5-9:41
+INJECTED from /Users/slim/Documents2/CECS 327/RTunes/app/src/main/AndroidManifest.xml:7:5-9:41
+INJECTED from /Users/slim/Documents2/CECS 327/RTunes/app/src/main/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:21.0.3] /Users/slim/.gradle/caches/transforms-1/files-1.1/support-v4-21.0.3.aar/2f844fd303d7d3f0e2570828fa4f1ac7/AndroidManifest.xml:15:5-42
+MERGED from [com.android.support:support-v4:21.0.3] /Users/slim/.gradle/caches/transforms-1/files-1.1/support-v4-21.0.3.aar/2f844fd303d7d3f0e2570828fa4f1ac7/AndroidManifest.xml:15:5-42
+INJECTED from /Users/slim/Documents2/CECS 327/RTunes/app/src/main/AndroidManifest.xml:7:5-9:41
+INJECTED from /Users/slim/Documents2/CECS 327/RTunes/app/src/main/AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from /Users/slim/Documents2/CECS 327/RTunes/app/src/main/AndroidManifest.xml:9:9-38
+		INJECTED from /Users/slim/Documents2/CECS 327/RTunes/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/slim/Documents2/CECS 327/RTunes/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/slim/Documents2/CECS 327/RTunes/app/src/main/AndroidManifest.xml:8:9-35
+		INJECTED from /Users/slim/Documents2/CECS 327/RTunes/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/slim/Documents2/CECS 327/RTunes/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/slim/Documents2/CECS 327/RTunes/app/src/main/AndroidManifest.xml:10:5-79
+	android:name
+		ADDED from /Users/slim/Documents2/CECS 327/RTunes/app/src/main/AndroidManifest.xml:10:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/slim/Documents2/CECS 327/RTunes/app/src/main/AndroidManifest.xml:11:5-80
+	android:name
+		ADDED from /Users/slim/Documents2/CECS 327/RTunes/app/src/main/AndroidManifest.xml:11:22-78
+uses-permission#android.permission.INTERNET
+ADDED from /Users/slim/Documents2/CECS 327/RTunes/app/src/main/AndroidManifest.xml:12:5-66
+	android:name
+		ADDED from /Users/slim/Documents2/CECS 327/RTunes/app/src/main/AndroidManifest.xml:12:22-64
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /Users/slim/Documents2/CECS 327/RTunes/app/src/main/AndroidManifest.xml:13:5-67
+	android:name
+		ADDED from /Users/slim/Documents2/CECS 327/RTunes/app/src/main/AndroidManifest.xml:13:22-65
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/slim/Documents2/CECS 327/RTunes/app/src/main/AndroidManifest.xml:14:5-78
+	android:name
+		ADDED from /Users/slim/Documents2/CECS 327/RTunes/app/src/main/AndroidManifest.xml:14:22-76
+application
+ADDED from /Users/slim/Documents2/CECS 327/RTunes/app/src/main/AndroidManifest.xml:16:5-38:19
+MERGED from [com.android.support:support-v4:21.0.3] /Users/slim/.gradle/caches/transforms-1/files-1.1/support-v4-21.0.3.aar/2f844fd303d7d3f0e2570828fa4f1ac7/AndroidManifest.xml:16:5-19
+MERGED from [com.android.support:support-v4:21.0.3] /Users/slim/.gradle/caches/transforms-1/files-1.1/support-v4-21.0.3.aar/2f844fd303d7d3f0e2570828fa4f1ac7/AndroidManifest.xml:16:5-19
+	android:label
+		ADDED from /Users/slim/Documents2/CECS 327/RTunes/app/src/main/AndroidManifest.xml:19:9-41
+	android:permission
+		ADDED from /Users/slim/Documents2/CECS 327/RTunes/app/src/main/AndroidManifest.xml:20:41-103
+	android:icon
+		ADDED from /Users/slim/Documents2/CECS 327/RTunes/app/src/main/AndroidManifest.xml:18:9-45
+	android:allowBackup
+		ADDED from /Users/slim/Documents2/CECS 327/RTunes/app/src/main/AndroidManifest.xml:17:9-35
+	android:theme
+		ADDED from /Users/slim/Documents2/CECS 327/RTunes/app/src/main/AndroidManifest.xml:20:9-40
+activity#com.rtunes.ActivityLogin
+ADDED from /Users/slim/Documents2/CECS 327/RTunes/app/src/main/AndroidManifest.xml:21:9-28:20
+	android:label
+		ADDED from /Users/slim/Documents2/CECS 327/RTunes/app/src/main/AndroidManifest.xml:22:19-51
+	android:name
+		ADDED from /Users/slim/Documents2/CECS 327/RTunes/app/src/main/AndroidManifest.xml:21:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/slim/Documents2/CECS 327/RTunes/app/src/main/AndroidManifest.xml:23:12-27:29
+action#android.intent.action.MAIN
+ADDED from /Users/slim/Documents2/CECS 327/RTunes/app/src/main/AndroidManifest.xml:24:17-69
+	android:name
+		ADDED from /Users/slim/Documents2/CECS 327/RTunes/app/src/main/AndroidManifest.xml:24:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/slim/Documents2/CECS 327/RTunes/app/src/main/AndroidManifest.xml:26:17-77
+	android:name
+		ADDED from /Users/slim/Documents2/CECS 327/RTunes/app/src/main/AndroidManifest.xml:26:27-74
+activity#com.rtunes.ActivityProfile
+ADDED from /Users/slim/Documents2/CECS 327/RTunes/app/src/main/AndroidManifest.xml:29:9-61
+	android:name
+		ADDED from /Users/slim/Documents2/CECS 327/RTunes/app/src/main/AndroidManifest.xml:29:19-49
+activity#com.rtunes.ActivityPlaylist
+ADDED from /Users/slim/Documents2/CECS 327/RTunes/app/src/main/AndroidManifest.xml:30:9-62
+	android:name
+		ADDED from /Users/slim/Documents2/CECS 327/RTunes/app/src/main/AndroidManifest.xml:30:19-50
+activity#com.rtunes.ActivityMain
+ADDED from /Users/slim/Documents2/CECS 327/RTunes/app/src/main/AndroidManifest.xml:31:9-58
+	android:name
+		ADDED from /Users/slim/Documents2/CECS 327/RTunes/app/src/main/AndroidManifest.xml:31:19-46
+service#com.rtunes.StreamService
+ADDED from /Users/slim/Documents2/CECS 327/RTunes/app/src/main/AndroidManifest.xml:33:8-36:19
+	android:exported
+		ADDED from /Users/slim/Documents2/CECS 327/RTunes/app/src/main/AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from /Users/slim/Documents2/CECS 327/RTunes/app/src/main/AndroidManifest.xml:34:13-52
